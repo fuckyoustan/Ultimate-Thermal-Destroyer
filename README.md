@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="A_digital_illustration_serves_as_promotional_artwo.png" alt="Ultimate Thermal Destroyer Banner"/>
+  <img src="(https://github.com/fuckyoustan/Ultimate-Thermal-Destroyer/blob/456bfbb4688f912b0b446fa25a79d3f368fdb5e6/banner.jpg)" alt="Ultimate Thermal Destroyer Banner"/>
 </p>
 
 # 💥 Ultimate Thermal Destroyer
