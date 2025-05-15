@@ -7,8 +7,6 @@ This is a Magisk module for users who are tired of their MediaTek devices playin
 
 > ***Disclaimer:*** Use at your own risk. This module laughs in the face of thermal limits and then punches them. You *will* generate more heat—handle with care.
 
----
-
 ## 🚀 Features
 This module’s script performs the following thermal-obliterating tasks:
 
@@ -20,19 +18,16 @@ This module’s script performs the following thermal-obliterating tasks:
 - 🛡️ **Disables Thermal Protections**
 - 🧬 **Overrides TZCPU Configs**
 
----
-
 ## ⚠️ WARNING
 - This module **completely disables all thermal protection**. If your phone overheats and shuts down, reboots, or melts into the table, that’s on you.
 - Intended for **experienced users**, especially those tweaking or benchmarking. Not recommended for daily usage unless you know what you're doing.
 - Monitor your temps manually and don't charge your phone under heavy load while using this module. 🔥
 
----
-
 ## 🙌 Credits
 Big thanks to:
-- `@miazami`
-- `@rem01gaming`  
+- `@miazami` : https://github.com/MiAzami
+- `@rem01gaming` : https://github.com/Rem01Gaming
+
 for the inspiration and technical insight.
 
 ---
