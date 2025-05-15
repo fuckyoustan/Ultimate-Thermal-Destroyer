@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="(https://github.com/fuckyoustan/Ultimate-Thermal-Destroyer/blob/456bfbb4688f912b0b446fa25a79d3f368fdb5e6/banner.jpg)" alt="Ultimate Thermal Destroyer Banner"/>
-</p>
+![alt text](https://github.com/fuckyoustan/Ultimate-Thermal-Destroyer/blob/main/banner.jpg?raw=true)
 
 # 💥 Ultimate Thermal Destroyer
 **No mercy for thermals. Just raw performance.**
