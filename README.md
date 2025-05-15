@@ -1,4 +1,4 @@
-![alt text](https://github.com/fuckyoustan/Ultimate-Thermal-Destroyer/blob/main/banner.jpg?raw=true)
+![TDestroyer](https://github.com/fuckyoustan/Ultimate-Thermal-Destroyer/blob/main/banner.jpg?raw=true)
 
 # 💥 Ultimate Thermal Destroyer
 **No mercy for thermals. Just raw performance.**
