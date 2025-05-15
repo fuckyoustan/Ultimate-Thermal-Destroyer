@@ -23,15 +23,6 @@ This module’s script performs the following thermal-obliterating tasks:
 - Intended for **experienced users**, especially those tweaking or benchmarking. Not recommended for daily usage unless you know what you're doing.
 - Monitor your temps manually and don't charge your phone under heavy load while using this module. 🔥
 
-## 🙌 Credits
-Big thanks to:
-- `@miazami` : https://github.com/MiAzami
-- `@rem01gaming` : https://github.com/Rem01Gaming
-
-for the inspiration and technical insight.
-
----
-
 ## 🏁 Final Words
 If you’re the kind of person who thinks "safe" is just another word for slow, **Ultimate Thermal Destroyer** is your new best friend.
 
