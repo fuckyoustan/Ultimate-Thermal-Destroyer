@@ -18,11 +18,11 @@ This module’s script performs the following thermal-obliterating tasks:
 - 🛡️ **Disables Thermal Protections**
 - 🧬 **Overrides TZCPU Configs**
 
-## ⚠️ BIG FAT WARNING
+## ⚠️ BIG WARNING
 - THIS MODULE KILLS YOUR DEVICE'S TEMP PROTECTION.
 - RISK OF OVERHEATING, MELTING YOUR GUTS, OR TURNING YOUR BATTERY INTO A BALLOON
 - IS 100% ON YOU, BUDDY.
-- USE WISELY AND KEEP AN EYE ON YOUR TEMPS – YOU’VE BEEN WARNED!
+- USE WISELY AND KEEP AN EYE ON YOUR TEMPS, YOU’VE BEEN WARNED!
 
 ## 🏁 Final Words
 If you’re the kind of person who thinks "safe" is just another word for slow, **Ultimate Thermal Destroyer** is your new best friend.
