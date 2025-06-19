@@ -18,10 +18,11 @@ This module’s script performs the following thermal-obliterating tasks:
 - 🛡️ **Disables Thermal Protections**
 - 🧬 **Overrides TZCPU Configs**
 
-## ⚠️ WARNING
-- This module **completely disables all thermal protection**. If your phone overheats and shuts down, reboots, or melts into the table, that’s on you.
-- Intended for **experienced users**, especially those tweaking or benchmarking. Not recommended for daily usage unless you know what you're doing.
-- Monitor your temps manually and don't charge your phone under heavy load while using this module. 🔥
+## ⚠️ BIG FAT WARNING
+- THIS MODULE KILLS YOUR DEVICE'S TEMP PROTECTION.
+- RISK OF OVERHEATING, MELTING YOUR GUTS, OR TURNING YOUR BATTERY INTO A BALLOON
+- IS 100% ON YOU, BUDDY.
+- USE WISELY AND KEEP AN EYE ON YOUR TEMPS – YOU’VE BEEN WARNED!
 
 ## 🏁 Final Words
 If you’re the kind of person who thinks "safe" is just another word for slow, **Ultimate Thermal Destroyer** is your new best friend.
