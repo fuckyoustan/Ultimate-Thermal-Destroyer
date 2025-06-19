@@ -5,8 +5,6 @@
 
 This is a Magisk module for users who are tired of their MediaTek devices playing safe. **Ultimate Thermal Destroyer** annihilates every bit of thermal throttling, letting your CPU and GPU unleash their full potential. Think of it like ripping off the governor’s leash and letting your hardware go full berserk mode. 🐉🔥
 
-> ***Disclaimer:*** Use at your own risk. This module laughs in the face of thermal limits and then punches them. You *will* generate more heat—handle with care.
-
 ## 🚀 Features
 This module’s script performs the following thermal-obliterating tasks:
 
