@@ -1,0 +1,7 @@
+id=TDestroyer
+name=Ultimate Thermal Destroyer
+version=v3.2
+versionCode=1
+author=@fuckyoustan
+description=Your phone deserves to suffer for performance
+updateJson=https://github.com/fuckyoustan/Ultimate-Thermal-Destroyer/blob/main/utd/utd.json
