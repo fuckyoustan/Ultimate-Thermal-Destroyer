@@ -1,4 +1,4 @@
-# Ultimate Thermal Destroyer
+NEW UPDATE IS COMING 🎉
 
 # Changelog
 version: v5.0
