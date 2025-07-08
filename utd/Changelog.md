@@ -1,4 +1,4 @@
-NEW UPDATE IS COMING 🎉
+TIME TO UPDATE DUDE 🎉
 
 # Changelog
 version: v5.0
@@ -10,6 +10,11 @@ version: v5.0
 - cleaned up and reworked some script logic for better flow
 
 - fixed those annoying install errors on ksunext
+
+# Important
+- I recommend uninstalling the previous module first.
+
+---
 
 # Changelog
 version: v4.0
