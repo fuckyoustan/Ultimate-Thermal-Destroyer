@@ -5,7 +5,6 @@ version: v6.0
 
 - fix typo in some code hehe
 - more aggressive in searching for thermal files on /system and /vendor
-- You know what? I'm even shocked that I made this mess lol
 
 # Changelog
 version: v5.0
