@@ -1,6 +1,12 @@
 TIME TO UPDATE DUDE 🎉
 
 # Changelog
+version: v7.0
+
+- make the script thoroughly search for “thermal” and “throttling” related files in the path /system /vendor /sys etc.
+- expected to run on all chipsets
+
+# Changelog
 version: v6.0
 
 - fix typo in some code hehe
