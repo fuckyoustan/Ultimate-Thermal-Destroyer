@@ -1,6 +1,13 @@
 TIME TO UPDATE DUDE 🎉
 
 # Changelog
+version: v7.1
+
+- fix some code
+- more aggressive in specific thermal
+- more wildly search for files with the keywords “therm” and “throtl” and "temp" on /system /vendor /sys /dev /proc
+
+# Changelog
 version: v7.0
 
 - make the script thoroughly search for “thermal” and “throttling” related files in the path /system /vendor /sys etc.
