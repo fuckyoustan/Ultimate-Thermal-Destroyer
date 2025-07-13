@@ -22,5 +22,4 @@ This module’s script performs the following thermal-obliterating tasks:
 
 ## 🏁 Final Words
 If you’re the kind of person who thinks "safe" is just another word for slow, **Ultimate Thermal Destroyer** is your new best friend.
-
 Now go forth and *unleash hell*. 💀⚔️
